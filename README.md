@@ -11,7 +11,7 @@ Power-Up plan:
 **IBM Quantum/PINQ^2 Power Up:** We will use this power up to run our code on the IBM Quantum computer in order to make our code compatible and more efficient. We can use this to test our code’s efficiency and if needed to debug some problems.
 **NVIDIA/Cyxtera/Run:AI GPU Power Up:** We will use this power up to run our code and simulate it on the GPU so we can see the compatibility of our project on many different machines, and we can fix and debug our code easily.
 **NVIDIA/Cyxtera/Run:AI QODA Power-Up:** We will use this power up to run our code on the quantum computer, allowing us to test the code's efficiency and compatibility and if needed debug.
-**Project Link:**
+**Project Link:** https://github.com/bestcoderisme/QuantaHackers/blob/main/README.md
  Access to power ups:
 
 We allow Xanadu Quantum Technologies to share our email addresses with the Power-Up Sponsors for the purpose of facilitating the delivery of the Power-Ups.
